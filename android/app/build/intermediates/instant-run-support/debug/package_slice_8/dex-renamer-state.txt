@@ -1,0 +1,4 @@
+#Sun Aug 26 20:21:22 CST 2018
+base.0=C\:\\Users\\wzc118\\Documents\\hongpucamp\\pix2pix\\pix2pix_android\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\199
+path.0=classes.dex
+renamed.0=classes.dex

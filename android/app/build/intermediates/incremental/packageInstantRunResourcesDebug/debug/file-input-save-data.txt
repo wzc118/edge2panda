@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Thu Aug 16 15:09:00 CST 2018
+2.base=C\:\\Users\\wzc118\\Documents\\hongpucamp\\pix2pix\\pix2pix_android\\android\\app\\build\\intermediates\\assets\\debug
+0.path=frozen_model_android_quantized.pb
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\wzc118\\Documents\\hongpucamp\\pix2pix\\pix2pix_android\\android\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=Sketch01.jpg
+4.base=C\:\\Users\\wzc118\\Documents\\hongpucamp\\pix2pix\\pix2pix_android\\android\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=ww.png
+4.set=ASSET
+3.path=gan_mnist.pb
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=test.png
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\wzc118\\Documents\\hongpucamp\\pix2pix\\pix2pix_android\\android\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\wzc118\\Documents\\hongpucamp\\pix2pix\\pix2pix_android\\android\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
