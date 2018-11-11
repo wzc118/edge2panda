@@ -18,8 +18,8 @@ python freeze_model.py --model-folder <reduced model output folder>
 * Quantization by using bazel
 ```Python
 bazel-bin/tensorflow/tools/graph_transforms/transform_graph \
---in_graph=<forzen model folder>/frozen_model.pb \
---out_graph=<forzen model folder>/frozen_model_android_quantized.pb --inputs='image_tensor' \
+--in_graph=<frozen model folder>/frozen_model.pb \
+--out_graph=<frozen model folder>/frozen_model_android_quantized.pb --inputs='image_tensor' \
 --outputs='generator/deprocess/div' \
 --transforms='quantize_weights'
 ```
