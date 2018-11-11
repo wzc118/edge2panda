@@ -2,7 +2,7 @@
 An Android application for pix2pix with tensorflow mobile. 
 
 ## Demo
-![https://github.com/wzc118/edge2panda/blob/master/edge2pandas.gif]
+![image]（https://github.com/wzc118/edge2panda/blob/master/edge2pandas.gif）
 
 
 ## Model transformer
